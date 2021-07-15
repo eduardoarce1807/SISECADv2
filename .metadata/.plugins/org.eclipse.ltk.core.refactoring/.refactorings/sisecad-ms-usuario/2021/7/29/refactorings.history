@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Docente.java&apos; to &apos;sisecad-ms-oauth/src/main/java/upeu.sisecad.grupo5.oauth.models&apos;&#x0D;&#x0A;- Original project: &apos;sisecad-ms-usuario&apos;&#x0D;&#x0A;- Destination element: &apos;sisecad-ms-oauth/src/main/java/upeu.sisecad.grupo5.oauth.models&apos;&#x0D;&#x0A;- Original element: &apos;upeu.sisecad.grupo5.app.usuario.entity.Docente.java&apos;" description="Copy compilation unit" destination="=sisecad-ms-oauth/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;upeu.sisecad.grupo5.oauth.models" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;upeu.sisecad.grupo5.app.usuario.entity{Docente.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1626227392169" units="1" version="1.0"/>
+</session>

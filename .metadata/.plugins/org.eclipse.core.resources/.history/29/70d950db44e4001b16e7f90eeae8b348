@@ -1,0 +1,5 @@
+package upeu.sisecad.grupo5.app.usuario.entity;
+
+public class Docente {
+
+}
