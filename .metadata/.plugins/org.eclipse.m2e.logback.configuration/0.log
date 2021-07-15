@@ -834,3 +834,50 @@ org.eclipse.jface.text.BadLocationException: null
 2021-07-15 18:58:49,873 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2021-07-15 18:58:50,228 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2021-07-15 18:58:50,230 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-15 18:58:50,230 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-15 18:58:50,231 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Documents\SISECADv2\sisecad-ms-legajo\src\test\resources
+2021-07-15 19:40:32,771 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-15 19:40:32,771 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-15 19:40:32,772 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-15 19:40:32,838 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-15 19:40:32,851 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-15 19:40:32,852 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-15 19:40:32,852 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Documents\SISECADv2\sisecad-eureka-server\src\test\resources
+2021-07-15 19:40:34,252 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-15 19:40:34,252 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-15 19:40:34,253 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-15 19:40:35,186 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-15 19:40:35,235 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-15 19:40:35,236 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-15 19:40:35,236 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Documents\SISECADv2\sisecad-ms-docente\src\test\resources
+2021-07-15 19:40:35,303 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-15 19:40:35,303 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-15 19:40:35,303 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-15 19:40:35,304 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-15 19:40:35,305 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-15 19:40:35,306 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-15 19:40:35,306 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Documents\SISECADv2\sisecad-ms-file\src\test\resources
+2021-07-15 19:40:35,323 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-15 19:40:35,323 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-15 19:40:35,323 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-15 19:40:35,324 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-15 19:40:35,325 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-15 19:40:35,325 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-15 19:40:35,325 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Documents\SISECADv2\sisecad-ms-legajo\src\test\resources
+2021-07-15 19:40:45,623 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-15 19:40:45,624 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-15 19:40:45,650 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-15 19:40:45,655 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-15 19:40:45,655 [Worker-476: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Documents\SISECADv2\sisecad-ms-oauth\src\test\resources
+2021-07-15 19:40:49,125 [Worker-483: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-15 19:40:49,125 [Worker-483: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-15 19:40:49,126 [Worker-483: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-15 19:40:50,110 [Worker-483: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-15 19:40:50,112 [Worker-483: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-15 19:40:50,113 [Worker-483: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-15 19:40:50,113 [Worker-483: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Documents\SISECADv2\sisecad-ms-usuario\src\test\resources
+2021-07-15 19:40:59,119 [Worker-481: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-15 19:40:59,122 [Worker-481: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-15 19:40:59,122 [Worker-481: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-15 19:40:59,124 [Worker-481: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-15 19:40:59,124 [Worker-481: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Documents\SISECADv2\sisecad-zuul-server\src\test\resources

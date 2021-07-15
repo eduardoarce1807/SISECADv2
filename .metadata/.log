@@ -19266,3 +19266,459 @@ java.util.concurrent.TimeoutException
 
 !ENTRY Activator 1 0 2021-07-15 18:58:53.789
 !MESSAGE Has main method computation for project 'sisecad-ms-legajo'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:21.879
+!MESSAGE Has main method computation for project 'sisecad-zuul-server'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:21.883
+!MESSAGE Has main method computation for project 'sisecad-ms-docente'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:21.889
+!MESSAGE Has main method computation for project 'sisecad-ms-file'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:22.051
+!MESSAGE Has main method computation for project 'sisecad-ms-usuario'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:22.258
+!MESSAGE Has main method computation for project 'sisecad-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:22.946
+!MESSAGE Has main method computation for project 'sisecad-ms-oauth'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:23.062
+!MESSAGE Has main method computation for project 'sisecad-ms-legajo'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:23.294
+!MESSAGE Has main method computation for project 'sisecad-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:23.303
+!MESSAGE Has main method computation for project 'sisecad-ms-usuario'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:23.305
+!MESSAGE Has main method computation for project 'sisecad-zuul-server'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:23.306
+!MESSAGE Has main method computation for project 'sisecad-ms-file'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:23.558
+!MESSAGE Has main method computation for project 'sisecad-ms-docente'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:23.704
+!MESSAGE Has main method computation for project 'sisecad-ms-oauth'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:35.902
+!MESSAGE Has main method computation for project 'sisecad-zuul-server'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:35.920
+!MESSAGE Has main method computation for project 'sisecad-ms-docente'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:35.922
+!MESSAGE Has main method computation for project 'sisecad-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:35.923
+!MESSAGE Has main method computation for project 'sisecad-ms-oauth'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:35.934
+!MESSAGE Has main method computation for project 'sisecad-ms-usuario'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:36.003
+!MESSAGE Has main method computation for project 'sisecad-ms-file'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:36.085
+!MESSAGE Has main method computation for project 'sisecad-ms-legajo'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:45.695
+!MESSAGE Has main method computation for project 'sisecad-zuul-server'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:45.701
+!MESSAGE Has main method computation for project 'sisecad-ms-file'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:45.703
+!MESSAGE Has main method computation for project 'sisecad-ms-docente'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:45.909
+!MESSAGE Has main method computation for project 'sisecad-ms-usuario'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:45.915
+!MESSAGE Has main method computation for project 'sisecad-ms-legajo'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:45.972
+!MESSAGE Has main method computation for project 'sisecad-ms-oauth'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:46.181
+!MESSAGE Has main method computation for project 'sisecad-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:46.182
+!MESSAGE Has main method computation for project 'sisecad-ms-docente'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:46.563
+!MESSAGE Has main method computation for project 'sisecad-ms-file'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:46.565
+!MESSAGE Has main method computation for project 'sisecad-zuul-server'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-07-15 19:40:47.275
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.checkMarkerResoultion(LSPCodeActionMarkerResolution.java:170)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.hasResolutions(LSPCodeActionMarkerResolution.java:192)
+	at org.eclipse.ui.internal.ide.registry.MarkerHelpRegistry.hasResolution(MarkerHelpRegistry.java:264)
+	at org.eclipse.ui.internal.ide.registry.MarkerHelpRegistry.hasResolutions(MarkerHelpRegistry.java:234)
+	at org.eclipse.ui.views.markers.MarkerField.annotateImage(MarkerField.java:87)
+	at org.eclipse.ui.internal.views.markers.MarkerProblemSeverityAndMessageField.update(MarkerProblemSeverityAndMessageField.java:80)
+	at org.eclipse.ui.internal.views.markers.MarkerColumnLabelProvider.update(MarkerColumnLabelProvider.java:57)
+	at org.eclipse.jface.viewers.ViewerColumn.refresh(ViewerColumn.java:144)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:959)
+	at org.eclipse.ui.internal.views.markers.MarkersTreeViewer.doUpdateItem(MarkersTreeViewer.java:70)
+	at org.eclipse.jface.viewers.AbstractTreeViewer$UpdateItemSafeRunnable.run(AbstractTreeViewer.java:126)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:1037)
+	at org.eclipse.jface.viewers.StructuredViewer$UpdateItemSafeRunnable.run(StructuredViewer.java:427)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.updateItem(StructuredViewer.java:2111)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.updateChildren(AbstractTreeViewer.java:2780)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1960)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:677)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1966)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:677)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1936)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1893)
+	at org.eclipse.jface.viewers.StructuredViewer.lambda$3(StructuredViewer.java:1484)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1400)
+	at org.eclipse.jface.viewers.TreeViewer.preservingSelection(TreeViewer.java:363)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1361)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1484)
+	at org.eclipse.jface.viewers.ColumnViewer.refresh(ColumnViewer.java:538)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1445)
+	at org.eclipse.ui.internal.views.markers.UIUpdateJob.runInUIThread(UIUpdateJob.java:103)
+	at org.eclipse.ui.progress.UIJob.lambda$0(UIJob.java:95)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4001)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3629)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-07-15 19:40:47.601
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.checkMarkerResoultion(LSPCodeActionMarkerResolution.java:170)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.hasResolutions(LSPCodeActionMarkerResolution.java:192)
+	at org.eclipse.ui.internal.ide.registry.MarkerHelpRegistry.hasResolution(MarkerHelpRegistry.java:264)
+	at org.eclipse.ui.internal.ide.registry.MarkerHelpRegistry.hasResolutions(MarkerHelpRegistry.java:234)
+	at org.eclipse.ui.views.markers.MarkerField.annotateImage(MarkerField.java:87)
+	at org.eclipse.ui.internal.views.markers.MarkerProblemSeverityAndMessageField.update(MarkerProblemSeverityAndMessageField.java:80)
+	at org.eclipse.ui.internal.views.markers.MarkerColumnLabelProvider.update(MarkerColumnLabelProvider.java:57)
+	at org.eclipse.jface.viewers.ViewerColumn.refresh(ViewerColumn.java:144)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:959)
+	at org.eclipse.ui.internal.views.markers.MarkersTreeViewer.doUpdateItem(MarkersTreeViewer.java:70)
+	at org.eclipse.jface.viewers.AbstractTreeViewer$UpdateItemSafeRunnable.run(AbstractTreeViewer.java:126)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:1037)
+	at org.eclipse.jface.viewers.StructuredViewer$UpdateItemSafeRunnable.run(StructuredViewer.java:427)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.updateItem(StructuredViewer.java:2111)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.updateChildren(AbstractTreeViewer.java:2780)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1960)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:677)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1966)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:677)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1936)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1893)
+	at org.eclipse.jface.viewers.StructuredViewer.lambda$3(StructuredViewer.java:1484)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1400)
+	at org.eclipse.jface.viewers.TreeViewer.preservingSelection(TreeViewer.java:363)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1361)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1484)
+	at org.eclipse.jface.viewers.ColumnViewer.refresh(ColumnViewer.java:538)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1445)
+	at org.eclipse.ui.internal.views.markers.UIUpdateJob.runInUIThread(UIUpdateJob.java:103)
+	at org.eclipse.ui.progress.UIJob.lambda$0(UIJob.java:95)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4001)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3629)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY Activator 1 0 2021-07-15 19:40:48.281
+!MESSAGE Has main method computation for project 'sisecad-zuul-server'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:48.284
+!MESSAGE Has main method computation for project 'sisecad-ms-docente'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:48.289
+!MESSAGE Has main method computation for project 'sisecad-ms-file'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:48.300
+!MESSAGE Has main method computation for project 'sisecad-ms-oauth'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:48.315
+!MESSAGE Has main method computation for project 'sisecad-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:48.326
+!MESSAGE Has main method computation for project 'sisecad-ms-usuario'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:48.422
+!MESSAGE Has main method computation for project 'sisecad-ms-legajo'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:50.136
+!MESSAGE Has main method computation for project 'sisecad-zuul-server'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:50.140
+!MESSAGE Has main method computation for project 'sisecad-ms-docente'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:50.146
+!MESSAGE Has main method computation for project 'sisecad-ms-file'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:50.163
+!MESSAGE Has main method computation for project 'sisecad-ms-usuario'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:50.226
+!MESSAGE Has main method computation for project 'sisecad-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:50.227
+!MESSAGE Has main method computation for project 'sisecad-ms-oauth'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:50.295
+!MESSAGE Has main method computation for project 'sisecad-ms-legajo'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:51.885
+!MESSAGE Has main method computation for project 'sisecad-zuul-server'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:51.886
+!MESSAGE Has main method computation for project 'sisecad-ms-docente'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:51.980
+!MESSAGE Has main method computation for project 'sisecad-ms-file'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:52.188
+!MESSAGE Has main method computation for project 'sisecad-ms-usuario'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:52.189
+!MESSAGE Has main method computation for project 'sisecad-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:52.189
+!MESSAGE Has main method computation for project 'sisecad-ms-oauth'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:52.227
+!MESSAGE Has main method computation for project 'sisecad-ms-legajo'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:59.130
+!MESSAGE Has main method computation for project 'sisecad-zuul-server'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:59.131
+!MESSAGE Has main method computation for project 'sisecad-ms-legajo'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:59.132
+!MESSAGE Has main method computation for project 'sisecad-ms-oauth'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:59.132
+!MESSAGE Has main method computation for project 'sisecad-ms-docente'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:59.133
+!MESSAGE Has main method computation for project 'sisecad-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:59.133
+!MESSAGE Has main method computation for project 'sisecad-ms-usuario'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:59.139
+!MESSAGE Has main method computation for project 'sisecad-ms-file'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:59.889
+!MESSAGE Has main method computation for project 'sisecad-zuul-server'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:59.890
+!MESSAGE Has main method computation for project 'sisecad-ms-docente'
+
+!ENTRY Activator 1 0 2021-07-15 19:40:59.912
+!MESSAGE Has main method computation for project 'sisecad-ms-file'
+
+!ENTRY Activator 1 0 2021-07-15 19:41:00.021
+!MESSAGE Has main method computation for project 'sisecad-ms-usuario'
+
+!ENTRY Activator 1 0 2021-07-15 19:41:00.091
+!MESSAGE Has main method computation for project 'sisecad-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 19:41:00.098
+!MESSAGE Has main method computation for project 'sisecad-ms-oauth'
+
+!ENTRY Activator 1 0 2021-07-15 19:41:00.164
+!MESSAGE Has main method computation for project 'sisecad-ms-legajo'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-07-15 19:41:00.229
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.checkMarkerResoultion(LSPCodeActionMarkerResolution.java:170)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.hasResolutions(LSPCodeActionMarkerResolution.java:192)
+	at org.eclipse.ui.internal.ide.registry.MarkerHelpRegistry.hasResolution(MarkerHelpRegistry.java:264)
+	at org.eclipse.ui.internal.ide.registry.MarkerHelpRegistry.hasResolutions(MarkerHelpRegistry.java:234)
+	at org.eclipse.ui.views.markers.MarkerField.annotateImage(MarkerField.java:87)
+	at org.eclipse.ui.internal.views.markers.MarkerProblemSeverityAndMessageField.update(MarkerProblemSeverityAndMessageField.java:80)
+	at org.eclipse.ui.internal.views.markers.MarkerColumnLabelProvider.update(MarkerColumnLabelProvider.java:57)
+	at org.eclipse.jface.viewers.ViewerColumn.refresh(ViewerColumn.java:144)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:959)
+	at org.eclipse.ui.internal.views.markers.MarkersTreeViewer.doUpdateItem(MarkersTreeViewer.java:70)
+	at org.eclipse.jface.viewers.AbstractTreeViewer$UpdateItemSafeRunnable.run(AbstractTreeViewer.java:126)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:1037)
+	at org.eclipse.jface.viewers.StructuredViewer$UpdateItemSafeRunnable.run(StructuredViewer.java:427)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.updateItem(StructuredViewer.java:2111)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.updateChildren(AbstractTreeViewer.java:2780)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1960)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:677)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1966)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:677)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1936)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1893)
+	at org.eclipse.jface.viewers.StructuredViewer.lambda$3(StructuredViewer.java:1484)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1400)
+	at org.eclipse.jface.viewers.TreeViewer.preservingSelection(TreeViewer.java:363)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1361)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1484)
+	at org.eclipse.jface.viewers.ColumnViewer.refresh(ColumnViewer.java:538)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1445)
+	at org.eclipse.ui.internal.views.markers.UIUpdateJob.runInUIThread(UIUpdateJob.java:103)
+	at org.eclipse.ui.progress.UIJob.lambda$0(UIJob.java:95)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4001)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3629)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY Activator 1 0 2021-07-15 19:41:00.231
+!MESSAGE Has main method computation for project 'sisecad-zuul-server'
+
+!ENTRY Activator 1 0 2021-07-15 19:41:00.244
+!MESSAGE Has main method computation for project 'sisecad-ms-docente'
+
+!ENTRY Activator 1 0 2021-07-15 19:41:00.250
+!MESSAGE Has main method computation for project 'sisecad-ms-file'
+
+!ENTRY Activator 1 0 2021-07-15 19:41:00.302
+!MESSAGE Has main method computation for project 'sisecad-ms-usuario'
+
+!ENTRY Activator 1 0 2021-07-15 19:41:00.307
+!MESSAGE Has main method computation for project 'sisecad-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 19:41:00.355
+!MESSAGE Has main method computation for project 'sisecad-ms-legajo'
+
+!ENTRY Activator 1 0 2021-07-15 19:41:00.382
+!MESSAGE Has main method computation for project 'sisecad-ms-oauth'
+
+!ENTRY Activator 1 0 2021-07-15 19:41:00.507
+!MESSAGE Has main method computation for project 'sisecad-zuul-server'
+
+!ENTRY Activator 1 0 2021-07-15 19:41:00.521
+!MESSAGE Has main method computation for project 'sisecad-ms-docente'
+
+!ENTRY Activator 1 0 2021-07-15 19:41:00.529
+!MESSAGE Has main method computation for project 'sisecad-ms-file'
+
+!ENTRY Activator 1 0 2021-07-15 19:41:00.589
+!MESSAGE Has main method computation for project 'sisecad-ms-usuario'
+
+!ENTRY Activator 1 0 2021-07-15 19:41:00.612
+!MESSAGE Has main method computation for project 'sisecad-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 19:41:00.630
+!MESSAGE Has main method computation for project 'sisecad-ms-oauth'
+
+!ENTRY Activator 1 0 2021-07-15 19:41:00.635
+!MESSAGE Has main method computation for project 'sisecad-ms-legajo'
+
+!ENTRY Activator 1 0 2021-07-15 19:41:00.713
+!MESSAGE Has main method computation for project 'sisecad-zuul-server'
+
+!ENTRY Activator 1 0 2021-07-15 19:41:00.746
+!MESSAGE Has main method computation for project 'sisecad-ms-docente'
+
+!ENTRY Activator 1 0 2021-07-15 19:41:00.754
+!MESSAGE Has main method computation for project 'sisecad-ms-file'
+
+!ENTRY Activator 1 0 2021-07-15 19:41:00.761
+!MESSAGE Has main method computation for project 'sisecad-ms-usuario'
+
+!ENTRY Activator 1 0 2021-07-15 19:41:00.785
+!MESSAGE Has main method computation for project 'sisecad-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 19:41:00.833
+!MESSAGE Has main method computation for project 'sisecad-ms-oauth'
+
+!ENTRY Activator 1 0 2021-07-15 19:41:00.900
+!MESSAGE Has main method computation for project 'sisecad-ms-legajo'

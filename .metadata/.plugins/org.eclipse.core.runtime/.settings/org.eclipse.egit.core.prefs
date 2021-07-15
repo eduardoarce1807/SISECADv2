@@ -1,4 +1,5 @@
-GitRepositoriesView.GitDirectories=
-GitRepositoriesView.GitDirectories.relative=
+GitRepositoriesView.GitDirectories=C\:\\Users\\Administrator\\Documents\\SISECADv2\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;
+RepositorySearchDialogSearchPath=C\:\\Users\\Administrator\\Documents\\SISECADv2
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
